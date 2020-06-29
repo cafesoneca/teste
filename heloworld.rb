@@ -1,4 +1,4 @@
 puts 'hello world'
 puts 'escreva seu nome'
-name = gets.chomp
-puts  "Ola #{name}"
+nome = gets.chomp
+puts  "Ola #{nome}"
